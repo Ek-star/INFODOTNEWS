@@ -17,21 +17,15 @@
 - SwiftUI
 - Combine
 - MVVM Architecture
-- TMDB API
+- hn.algolia API (https://hn.algolia.com/api/v1/search?tags=front_page)
 - URLSession
 - SF Symbols
 
 ## 📸 Cuplikan Layar
 
-| Welcome Page View | Premium View | Login View |
+| Home Page View | News Detail View | News Detail View |
 |-------------------|--------------|------------|
-| <img src="https://github.com/user-attachments/assets/b830430c-d2eb-479c-a408-a0a1a9db12f6" width="200"/> | <img src="https://github.com/user-attachments/assets/aa93fb2b-2bea-4a53-9805-7a597940475c" width="200"/> | <img src="https://github.com/user-attachments/assets/13616d22-4fae-4bc3-bbcb-f27ba1136f01" width="200"/> |
-
-| Sign-up View | Movie List View | Movie Detail View |
-|--------------|-----------------|-------------------|
-| <img src="https://github.com/user-attachments/assets/e1cd0599-6019-4e8c-9d4c-9c0b3b2f4e17" width="200"/> | <img src="https://github.com/user-attachments/assets/6bc7aa62-371e-4dd1-b49a-b51b779039e1" width="200"/> | <img src="https://github.com/user-attachments/assets/277e2fd8-b579-40a8-96ce-97aacac1887f" width="200"/> |
-
-
+| <img src="https://github.com/user-attachments/assets/d1027e51-56ee-4b7c-b773-0a7a8deb1bec" width="200"/> | <img src="https://github.com/user-attachments/assets/25dbcd75-439d-4bc7-af4e-f3b85ef56688" width="200"/> | <img src="https://github.com/user-attachments/assets/384b88ce-7fd8-40c5-a8e0-80705e8a1afa" width="200"/> |
 
 
 
@@ -42,5 +36,5 @@
 
 1. Clone repo:
    ```bash
-   git clone https://github.com/Ek-star/MovieApp.git
-   cd MovieApp
+   git clone https://github.com/username/NewsApp.git
+   cd NewsApp
